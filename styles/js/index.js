@@ -34,5 +34,3 @@ window.addEventListener("scroll", () => {
 });
 
 
-const m=Math.random()+5
-

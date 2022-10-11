@@ -32,3 +32,7 @@ window.addEventListener("scroll", () => {
     nav.style.top = "0";
   }
 });
+
+
+const m=Math.random()+5
+

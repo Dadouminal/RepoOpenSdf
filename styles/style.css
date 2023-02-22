@@ -14,7 +14,7 @@ body {
   scroll-behavior: smooth;
 }
 
-button.button.is-warning.is-rounded.is-responsive.is-normal.has-text-white {
+#idea {
   background-color: orange;
 }
 
